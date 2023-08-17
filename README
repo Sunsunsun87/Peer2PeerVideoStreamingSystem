@@ -1,3 +1,6 @@
+Copyright: Logan Sun. ysun01@uw.edu
+2023.8.16
+
 This is a peer to peer video streaming system project.
 TCP flow control is implemented on top of UDP for secure and reliable file transfer.
 P2P file search and routing is accomplished using Dijstra algorithm.
