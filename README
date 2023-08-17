@@ -1,0 +1,4 @@
+This is a peer to peer video streaming system project.
+TCP flow control is implemented on top of UDP for secure and reliable file transfer.
+P2P file search and routing is accomplished using Dijstra algorithm.
+The video sharing performance is: transmitting a 1G video file in 3 minutes.
